@@ -1,11 +1,11 @@
 {
   "name": "BisagMap",
   "version": "1.0.0",
+  "private": false,
   "description": "A GIS map package with Fetchar integration for fetching and visualizing geographic data.",
   "main": "dist/Bisag-Map.umd.cjs",
   "module": "dist/Bisag-Map.js",
   "types": "dist/index.d.ts",
-  "private": false,
   "files": [
     "dist"
   ],
