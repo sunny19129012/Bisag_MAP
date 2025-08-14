@@ -1,5 +1,5 @@
 {
-  "name": "BisagMap",
+  "name": "bisag_map",
   "version": "1.0.0",
   "private": false,
   "description": "A GIS map package with Fetchar integration for fetching and visualizing geographic data.",
