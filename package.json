@@ -59,7 +59,11 @@
     "react geographic map",
     "react geospatial map",
     "react geographic visualization map",
-    "Bisag-Map"
+    "Bisag-Map",
+    "aaditya",
+    "Raj Gondaliya",
+    "dhairya patel",
+    "shailesh Barad"
   ],
   "dependencies": {
     "@chakra-ui/react": "^3.24.2",
